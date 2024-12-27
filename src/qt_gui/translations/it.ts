@@ -178,22 +178,22 @@
 		<message>
 			<location filename="../gui_context_menus.h" line="99"/>
 			<source>Compatibility...</source>
-			<translation>Compatibility...</translation>
+			<translation>Compatibilità...</translation>
 		</message>
 		<message>
 			<location filename="../gui_context_menus.h" line="100"/>
 			<source>Update database</source>
-			<translation>Update database</translation>
+			<translation>Aggiorna database</translation>
 		</message>
 		<message>
 			<location filename="../gui_context_menus.h" line="101"/>
 			<source>View report</source>
-			<translation>View report</translation>
+			<translation>Visualizza rapporto</translation>
 		</message>
 		<message>
 			<location filename="../gui_context_menus.h" line="102"/>
 			<source>Submit a report</source>
-			<translation>Submit a report</translation>
+			<translation>Invia rapporto</translation>
 		</message>
 		<message>
 			<location filename="../gui_context_menus.h" line="195"/>
@@ -735,7 +735,7 @@
 		<message>
 			<location filename="../settings_dialog.ui"/>
 			<source>Audio Backend</source>
-			<translation>Audio Backend</translation>
+			<translation>Backend Audio</translation>
 		</message>
 	</context>
 	<context>
@@ -1447,7 +1447,7 @@
 		<message>
 			<location filename="../game_list_frame.cpp"/>
 			<source>h</source>
-			<translation>h</translation>
+			<translation>o</translation>
 		</message>
 		<message>
 			<location filename="../game_list_frame.cpp"/>
